@@ -225,16 +225,16 @@ No manual UUID surgery.
 
 The AI:
 
-✅ Scans the `mods/` folder
-✅ Identifies addon formats automatically
-✅ Extracts `.mcpack`, `.mcaddon`, zips, and cursed archives
-✅ Determines BP vs RP
-✅ Pairs packs correctly
-✅ Detects and fixes UUID collisions
-✅ Normalizes folder structure
-✅ Installs packs correctly
-✅ Enables them for the right worlds
-✅ Follows *every rule you defined*
+- ✅ Scans the `mods/` folder
+- ✅ Identifies addon formats automatically
+- ✅ Extracts `.mcpack`, `.mcaddon`, zips, and cursed archives
+- ✅ Determines BP vs RP
+- ✅ Pairs packs correctly
+- ✅ Detects and fixes UUID collisions
+- ✅ Normalizes folder structure
+- ✅ Installs packs correctly
+- ✅ Enables them for the right worlds
+- ✅ Follows *every rule you defined*
 
 You watch it work.
 
@@ -242,14 +242,14 @@ You watch it work.
 
 ## 📺 FINAL INFOMERCIAL PITCH
 
-📣 Stop trusting random addon formats
-📣 Stop hand‑editing JSON
-📣 Stop sacrificing worlds to the UUID gods
+- 📣 Stop trusting random addon formats
+- 📣 Stop hand‑editing JSON
+- 📣 Stop sacrificing worlds to the UUID gods
 
-✨ Add an `AGENTS.md`
-🤖 Train your AI once
-🪄 Turn chaos into order
-🎮 Go back to actually playing Minecraft
+- ✨ Add an `AGENTS.md`
+- 🤖 Train your AI once
+- 🪄 Turn chaos into order
+- 🎮 Go back to actually playing Minecraft
 
 ---
 
