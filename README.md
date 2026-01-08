@@ -1,266 +1,289 @@
-# 🤖✨ AGENTS.md
+# 📺🤖✨ AGENTS.md ✨🤖📺
 
-## THE MIRACLE SOLUTION FOR MINECRAFT BEDROCK ADDONS
+## THE ALL‑NEW, NEVER‑BEFORE‑SEEN, ABSOLUTELY NECESSARY SOLUTION FOR
 
-*(As Seen In Late‑Night Terminal Sessions at 2:37 AM)*
+## **MINECRAFT BEDROCK ADDON MANAGEMENT**
 
----
-
-🎺🎺🎺 **ATTENTION BEDROCK SERVER ADMINS!** 🎺🎺🎺
-
-Are you tired of Minecraft Bedrock addons that…
-
-- ❌ Come in **random, inconsistent formats**
-- ❌ Mix Behavior Packs and Resource Packs like chaos incarnate
-- ❌ Hide important files three folders deep for no reason
-- ❌ Ship with broken or duplicated UUIDs
-- ❌ Pretend there’s a “standard” when **THERE ISN’T ONE**
-- ❌ Break your world if you so much as *enable them in the wrong order*
-
-👉 **STOP THE MADNESS.**
-
-Introducing **AGENTS.md** — a revolutionary, AI-powered addon management **instruction system** that brings **ORDER** to Bedrock addon chaos.
+*(Cue synth music. Neon grid background. A man points aggressively at the screen.)*
 
 ---
 
-## 😱 THE DIRTY SECRET NOBODY TALKS ABOUT
+🎺🎺🎺 **HEY YOU. YES, YOU—THE BEDROCK SERVER ADMIN.** 🎺🎺🎺
 
-Let’s say it out loud:
+Are you exhausted from addons that:
 
-> **There is NO standard Bedrock addon pack format.**
+- ❌ Arrive in **whatever format the author felt like that day**
+- ❌ Pretend there’s a “standard” (there is NOT)
+- ❌ Mix Behavior Packs and Resource Packs like a blender set to *CHAOS*
+- ❌ Explode your world because of one tiny UUID collision
+- ❌ Require arcane JSON rituals just to ENABLE THEM
+
+👉 **THEN STOP. PUT THE KEYBOARD DOWN.**
+
+Because this repository introduces:
+
+# 💥 AGENTS.md 💥
+
+The **AI instruction file** that teaches your AI agent how to survive the absolute anarchy that is **Minecraft Bedrock addons**.
+
+---
+
+## 😱 THE SHOCKING TRUTH (THEY DON’T WANT YOU TO KNOW)
+
+Let’s say it loud for the people in the back:
+
+> 🚨 **THERE IS NO STANDARD BEDROCK ADDON FORMAT.** 🚨
 
 None.
-Zero.
-Zilch.
 
-Every addon author does something different:
+Every creator ships something different:
 
-* Some `.mcaddon` files contain *everything*
-* Some ship **only** a Behavior Pack and forget the RP
-* Some are nested five directories deep
-* Some rename packs randomly
-* Some reuse UUIDs (on purpose 🤦)
-* Some almost work… until you combine them with literally anything else
+* `.mcaddon` with BP + RP (sometimes)
+* `.mcpack` with *one* pack (maybe)
+* Zips renamed three times
+* Nested folders inside nested folders inside regret
+* Duplicate UUIDs reused across the internet
+* Unicode symbols straight from a summoning circle
 
-💥 It’s the Wild West. With JSON.
+💥 This is not your fault.
 
----
-
-## 🪄 THE MAGIC TRICK: AGENTS.md
-
-`AGENTS.md` is where **you teach an AI how to survive Bedrock addon chaos**.
-
-It does **not** assume:
-
-* A fixed folder structure ❌
-* Correct naming ❌
-* Valid UUIDs ❌
-* Even basic sanity ❌
-
-Instead, it tells AI:
-
-✨ **“No matter what nonsense format this addon arrives in — figure it out.”** ✨
-
-Like magic.
-But deterministic.
-And version‑controlled.
+💥 But until now… it WAS your problem.
 
 ---
 
-## 🤖 WHAT THE AI CAN DO (YES, REALLY)
+## 🪄 ENTER: AGENTS.md (THE CONTROL PANEL)
 
-When an AI agent reads `AGENTS.md`, it gains **Bedrock Addon Superpowers™**:
+`AGENTS.md` is a **rulebook for AI agents**.
 
-### 🧠 Format Detection Sorcery
+You drop it into your Bedrock server directory and suddenly the AI:
 
-* Automatically detects Behavior Packs vs Resource Packs
-* Pairs BP ↔ RP even when authors didn’t
-* Handles `.mcpack`, `.mcaddon`, renamed zips, nested archives, and cursed downloads
+🧠 Knows where packs go
+🧠 Knows what it may touch
+🧠 Knows what it must NEVER touch
+🧠 Knows Bedrock’s weird rules better than most humans
 
-### 🧬 UUID Alchemy
-
-* Detects UUID collisions *before Bedrock implodes*
-* Regenerates UUIDs safely (only if allowed)
-* Updates all cross‑references correctly
-* No more Russian roulette with `manifest.json`
-
-### 📂 Folder Chaos Normalization
-
-* Flattens ridiculous directory layouts
-* Fixes creators who packed their *entire home directory*
-* Enforces a clean, predictable server structure
-
-### 📦 Addon Installation Wizardry
-
-* Installs packs into the **correct Bedrock directories**
-* Links BP and RP pairs automatically
-* Enables packs for the correct worlds
-* Respects load order and dependencies
-
-### 🛡️ World‑Saving Safety Protocols
-
-* Knows which worlds are sacred
-* Backs up before touching anything
-* Refuses to destroy production unless explicitly told to
-
-### 📢 No Silent Chaos
-
-* Explains what it changed
-* Documents decisions
-* Leaves breadcrumbs instead of mystery damage
+✨ You don’t fix addon chaos anymore.
+✨ You DELEGATE it.
 
 ---
 
-## 📜 WHAT IS AGENTS.md (IN HUMAN TERMS)?
+## 🤖 WHAT THE AI CAN DO (NO, REALLY. THIS MUCH.)
 
-It’s a **rulebook**.
-A **contract**.
-A **spellbook** (but in Markdown).
+When an AI agent reads **your actual AGENTS.md** (see below 👇), it can:
 
-You define:
+### 🧠 FORMAT DETECTION MADNESS
 
-* Where addons live
-* How worlds are structured
-* What the AI **may** fix
-* What the AI **must NEVER touch**
-* How broken addons should be handled
-* Whether magic is allowed or forbidden
+* Identify `.mcaddon`, `.mcpack`, renamed zips, and cursed archives
+* Detect BP vs RP automatically
+* Separate combined packs correctly
+* Normalize inconsistent layouts
 
-The AI obeys. Relentlessly.
+### 🧬 UUID APOCALYPSE PREVENTION
 
----
+* Detect duplicate UUIDs *before Bedrock crashes*
+* Regenerate UUIDs only when allowed
+* Update references correctly
+* Avoid touching vanilla server packs (AS COMMANDED)
 
-## 🧪 WHY THIS WORKS WHEN EVERYTHING ELSE FAILS
+### 📂 FOLDER SANITY RESTORATION
 
-Other tools assume:
+* Remove Unicode junk from folder names
+* Flatten stupidly nested directories
+* Enforce readable, predictable naming
 
-* Addons are well‑behaved ❌
-* Creators followed guidelines ❌
-* UUIDs are unique ❌
-* Humans didn’t make mistakes ❌
+### 📦 WORLD‑SAFE INSTALLATION
 
-**AGENTS.md assumes NONE OF THAT.**
+* Install packs into the correct directories
+* Enable packs for worlds safely
+* Prevent duplicate world entries
+* Preserve production worlds like sacred artifacts
 
-It treats Bedrock addons as:
-
-> “Untrusted artifacts from an unknowable universe”
-
-Which, let’s be honest… they are.
+All because **you wrote the rules once**.
 
 ---
 
-## 🧑‍💻✨ HOW DO I USE THIS THING?! (ACTUAL SORCERY)
+## 🧑‍💻✨ HOW DO YOU USE THIS?! (LIVE ON TV)
 
-📺 *Cue the host dramatically walking into frame holding a laptop.*
+📺 *Camera zooms in. Host whispers.*
 
-“Okay, but how do I actually use it?”
+“It’s easier than you think.”
 
-### 🛠️ STEP 1: INSTALL AN AI AGENT (YES, FREE ONES EXIST)
+### 🛠️ STEP 1: INSTALL AN AI AGENT (YES, FREE MODELS)
 
 You need an AI agent that can read files and follow instructions.
-We recommend **OpenCode** — it supports **free models**, runs locally or remotely, and works beautifully with instruction files like `AGENTS.md`.
 
+We recommend **OpenCode**:
 👉 [https://github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 
-No subscription.
+✅ Supports free models
+✅ Local or remote
+✅ Perfect for AGENTS.md workflows
+
+No subscriptions.
 No vendor lock‑in.
-No dark rituals.
+No rituals at midnight.
 
 ---
 
 ### 📂 STEP 2: DROP `AGENTS.md` INTO YOUR BEDROCK SERVER FOLDER
 
-Place `AGENTS.md` at the root of your Bedrock Dedicated Server directory:
-
 ```
 bedrock-server/
 ├── AGENTS.md        👈 THE BRAIN
-├── worlds/
+├── mods/
 ├── behavior_packs/
 ├── resource_packs/
-├── mods/            👈 addon chaos lives here
-├── bedrock_server
-└── server.properties
+├── worlds/
+└── bedrock_server
 ```
 
-This is the moment the AI realizes:
+At this moment, the AI realizes:
 
-🧠 “Ah. This human has RULES.”
+🧠 **“Ah. This human does NOT want chaos.”**
 
 ---
 
-### 📦 STEP 3: THROW YOUR ADDONS INTO A FOLDER (ANY FORMAT, WE DARE YOU)
-
-Drop your addons into something like:
+### 📦 STEP 3: THROW ADDONS INTO `mods/` (ANY FORMAT, WE DARE YOU)
 
 ```
 mods/
 ├── cool_mobs.mcaddon
 ├── weapons_pack.mcpack
-├── random_zip_from_discord.zip
-├── cursed_addon_final_v3_REAL.zip
+├── random_discord_zip.zip
+├── ✦ cursed_addon_FINAL_v7_REAL.zip
 ```
 
-There is no standard format.
+No standards?
 
-That is no longer *your* problem.
+GOOD.
+
+That’s what the AI is for.
 
 ---
 
-### 🪄 STEP 4: SAY THE MAGIC WORDS
+### 🪄 STEP 4: TYPE ONE SENTENCE
 
-Open your AI agent in the server directory and type:
+Open your AI agent in the server directory and say:
 
-> **“I would like to enable all the addons in the folder `mods/`.**”
+> **“I would like to enable all the addons in the folder `mods/`.”**
 
 That’s it.
 
 No scripts.
-No flags.
-No manual UUID surgery.
+No guessing.
+No JSON blood sacrifice.
 
 ---
 
-### 🤖 WHAT HAPPENS NEXT (WITHOUT YOU LIFTING A FINGER)
+## 🤖 WHAT HAPPENS NEXT (AUTOMATICALLY)
 
-The AI:
+The AI follows **your actual AGENTS.md rules**, including:
 
-- ✅ Scans the `mods/` folder
-- ✅ Identifies addon formats automatically
-- ✅ Extracts `.mcpack`, `.mcaddon`, zips, and cursed archives
-- ✅ Determines BP vs RP
-- ✅ Pairs packs correctly
-- ✅ Detects and fixes UUID collisions
-- ✅ Normalizes folder structure
-- ✅ Installs packs correctly
-- ✅ Enables them for the right worlds
-- ✅ Follows *every rule you defined*
+* Never touching vanilla packs
+* Removing Unicode safely
+* Detecting BP vs RP
+* Extracting correctly
+* Fixing conflicts
+* Enabling packs per‑world
 
-You watch it work.
+📣 It does EXACTLY what you told it to do.
 
 ---
 
-## 📺 FINAL INFOMERCIAL PITCH
+## 📢📺 BUT WAIT — THERE’S MORE!!!
 
-- 📣 Stop trusting random addon formats
-- 📣 Stop hand‑editing JSON
-- 📣 Stop sacrificing worlds to the UUID gods
+*(Crowd gasps. Host points dramatically.)*
 
-- ✨ Add an `AGENTS.md`
-- 🤖 Train your AI once
-- 🪄 Turn chaos into order
-- 🎮 Go back to actually playing Minecraft
+This isn’t just a **one-way install machine**.
+
+Because AGENTS.md gives the AI *context*, you can also:
+
+🛠️ **Tell it what’s wrong**
+🧹 **Tell it to remove addons**
+🚫 **Tell it to disable packs**
+🧠 **Tell it to FIX things — not guess**
+
+### 🪄 YES, YOU CAN JUST SAY THINGS LIKE:
+
+> **“Disable the Create Lite addon.”**
+
+> **“Remove the broken minimap mod from all worlds.”**
+
+> **“This addon crashes the server — find it and disable it safely.”**
+
+> **“Re-enable everything except experimental packs.”**
+
+Because the AI:
+
+* Knows pack names
+* Knows UUIDs
+* Knows which worlds are using what
+* Knows what it is allowed to touch
+* Knows how to disable packs *without deleting them*
+
+📣 You don’t hunt through JSON anymore.
+
+📣 You ISSUE COMMANDS.
+
+---
+
+## 📂 docs/ — THE BORING (IMPORTANT) STUFF
+
+This repo also includes a **`docs/` folder** for people who want:
+
+* Less neon
+* More clarity
+* Fewer exclamation points
+
+### `docs/overview.md`
+
+A serious explanation of what AGENTS.md is and how AI agents should interpret it.
+
+### `docs/bedrock-layout.md`
+
+Canonical Bedrock server directory structure and why it matters.
+
+### `docs/addon-detection.md`
+
+Exact logic for BP vs RP detection, manifests, and edge cases.
+
+### `docs/world-enabling.md`
+
+How world pack JSON files work and how duplicates are prevented.
+
+These docs are:
+
+* Calm
+* Precise
+* Meant for humans **and** machines
+
+The README sells the dream.
+
+The docs explain reality.
+
+---
+
+## 📺 FINAL 80’S‑INFOMERCIAL PITCH
+
+📣 STOP trusting random addon formats
+📣 STOP hand‑editing JSON at 2 AM
+📣 STOP sacrificing worlds to the UUID gods
+
+✨ ADD AGENTS.md
+🤖 TRAIN YOUR AI ONCE
+🪄 WATCH CHAOS DISAPPEAR
+🎮 GO BACK TO PLAYING MINECRAFT
 
 ---
 
 ### 🚨 WARNING
 
-Using AGENTS.md may result in:
+Using AGENTS.md may cause:
 
-* Fewer broken worlds
-* Reduced stress levels
-* Dangerous confidence
-* Automating everything else in your life
+* Fewer broken servers
+* Radical calm
+* Over‑automation of unrelated tasks
+* You explaining this to everyone else
 
 ---
 
