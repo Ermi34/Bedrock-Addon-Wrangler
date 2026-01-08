@@ -265,14 +265,14 @@ The docs explain reality.
 
 ## 📺 FINAL 80’S‑INFOMERCIAL PITCH
 
-📣 STOP trusting random addon formats
-📣 STOP hand‑editing JSON at 2 AM
-📣 STOP sacrificing worlds to the UUID gods
+- 📣 STOP trusting random addon formats
+- 📣 STOP hand‑editing JSON at 2 AM
+- 📣 STOP sacrificing worlds to the UUID gods
 
-✨ ADD AGENTS.md
-🤖 TRAIN YOUR AI ONCE
-🪄 WATCH CHAOS DISAPPEAR
-🎮 GO BACK TO PLAYING MINECRAFT
+- ✨ ADD AGENTS.md
+- 🤖 TRAIN YOUR AI ONCE
+- 🪄 WATCH CHAOS DISAPPEAR
+- 🎮 GO BACK TO PLAYING MINECRAFT
 
 ---
 
