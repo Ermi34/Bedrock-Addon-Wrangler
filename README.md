@@ -115,9 +115,9 @@ You need an AI agent that can read files and follow instructions.
 We recommend **OpenCode**:
 👉 [https://github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 
-✅ Supports free models
-✅ Local or remote
-✅ Perfect for AGENTS.md workflows
+- ✅ Supports free models
+- ✅ Local or remote
+- ✅ Perfect for AGENTS.md workflows
 
 No subscriptions.
 No vendor lock‑in.
